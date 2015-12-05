@@ -1,5 +1,6 @@
 class Util:
-    """Static utilities used throughout the tests to make the code more readable."""
+    """Static utilities used throughout the tests
+    to make the code more readable."""
 
     @staticmethod
     def remove_whitespace(value):
